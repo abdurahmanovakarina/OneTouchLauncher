@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Логотип OneTouch: три пересекающихся кольца из макета -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp" android:height="108dp"
+    android:viewportWidth="108" android:viewportHeight="108">
+    <group android:translateX="29" android:translateY="29" android:scaleX="0.5" android:scaleY="0.5">
+        <path android:strokeColor="#7ACFE0" android:strokeWidth="7"
+            android:pathData="M54,9a38,38 0 1,0 0.01,0z" />
+        <path android:strokeColor="#F2EFEA" android:strokeWidth="7"
+            android:pathData="M47,16a38,38 0 1,0 0.01,0z" />
+        <path android:strokeColor="#3FB8C9" android:strokeWidth="7"
+            android:pathData="M51,26a24,24 0 1,0 0.01,0z" />
+    </group>
+</vector>

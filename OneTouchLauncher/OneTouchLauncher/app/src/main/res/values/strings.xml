@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">OneTouch Home</string>
+    <string name="media_access_label">OneTouch Home — управление музыкой</string>
+</resources>
