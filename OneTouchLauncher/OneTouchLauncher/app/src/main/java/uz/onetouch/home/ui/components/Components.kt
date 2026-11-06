@@ -107,7 +107,7 @@ object Ic {
     const val volume = "M4 9v6h4l5 4V5L8 9zM16.5 8.5a5 5 0 0 1 0 7M19 6a8.5 8.5 0 0 1 0 12"
     const val settings = "M12 9a3 3 0 1 0 0 6 3 3 0 0 0 0-6zM12 2v3M12 19v3M4.9 4.9l2.1 2.1M17 17l2.1 2.1M2 12h3M19 12h3M4.9 19.1L7 17M17 7l2.1-2.1"
     const val book = "M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2zM4 21a2 2 0 0 1 2-2h13v2"
-    const val film = rr(3f, 4f, 18f, 16f, 2f) + "M3 9h18M8 4v5M16 4v5"
+    val film = rr(3f, 4f, 18f, 16f, 2f) + "M3 9h18M8 4v5M16 4v5"
 }
 
 @Composable
